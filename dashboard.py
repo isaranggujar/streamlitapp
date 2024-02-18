@@ -3,7 +3,7 @@ import time
 import warnings
 from datetime import datetime, timedelta
 
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
